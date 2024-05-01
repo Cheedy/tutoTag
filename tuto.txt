@@ -1,1 +1,9 @@
-tutoriel
+Brick = Primaire = Pâte prête à utiliser / Secondaire : Brick
+
+Oasis = Primaire = Boisson / Secondaire : Multifruit
+
+Schweppes = Primaire = Boisson gazeuse / Secondaire : (exemple : Agrumes)
+
+Nutella = Primaire = Miel et configure et pâte à tartiner / Secondaire : Chocolat
+
+Lait = Primaire = Crème & Lait / Secondaire : Lait demi-écrémé
